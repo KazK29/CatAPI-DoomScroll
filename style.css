@@ -1,0 +1,14 @@
+img {
+    width: 220px;
+    border-radius: 12px;
+    margin: 20px auto;
+    display: block;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+body {
+    text-align: center;
+    font-family: Arial;
+    background: #fefbf3;
+    color: rgb(68, 49, 35);
+}
